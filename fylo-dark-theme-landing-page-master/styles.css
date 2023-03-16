@@ -264,7 +264,7 @@ h3.description{
     min-width: 350px;
     border-radius: 4px;
 }
-.client h4{
+.client h3{
     max-width: 93%;
     font-weight: 300;
     font-size: 14px;
@@ -276,7 +276,7 @@ h3.description{
     display: flex;
     gap: 10px;
 }
-.author h5{
+.author h4{
     width: 70%;
     line-height: 16px;
 }
@@ -285,7 +285,7 @@ h3.description{
     border-radius: 100%;
     
 }
-.author h5 i{
+.author h4 i{
     font-weight: 100;
     font-size: 11px;
 
